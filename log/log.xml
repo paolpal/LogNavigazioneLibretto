@@ -1,0 +1,189 @@
+<EventoNavigazioneLibretto>
+  <nomeApplicazione>LibrettoVolo</nomeApplicazione>
+  <ipClient>localhost</ipClient>
+  <istante>2022-02-10T17:05:58.429Z</istante>
+  <evento>Avvio</evento>
+</EventoNavigazioneLibretto>
+
+<EventoNavigazioneLibretto>
+  <nomeApplicazione>LibrettoVolo</nomeApplicazione>
+  <ipClient>localhost</ipClient>
+  <istante>2022-02-10T17:08:31.052Z</istante>
+  <evento>Termine</evento>
+</EventoNavigazioneLibretto>
+
+<EventoNavigazioneLibretto>
+  <nomeApplicazione>LibrettoVolo</nomeApplicazione>
+  <ipClient>localhost</ipClient>
+  <istante>2022-02-10T17:08:53.250Z</istante>
+  <evento>Avvio</evento>
+</EventoNavigazioneLibretto>
+
+<EventoNavigazioneLibretto>
+  <nomeApplicazione>LibrettoVolo</nomeApplicazione>
+  <ipClient>localhost</ipClient>
+  <istante>2022-02-10T17:17:52.171Z</istante>
+  <evento>Aggiungi</evento>
+</EventoNavigazioneLibretto>
+
+<EventoNavigazioneLibretto>
+  <nomeApplicazione>LibrettoVolo</nomeApplicazione>
+  <ipClient>localhost</ipClient>
+  <istante>2022-02-10T17:26:32.934Z</istante>
+  <evento>Modifica</evento>
+</EventoNavigazioneLibretto>
+
+<EventoNavigazioneLibretto>
+  <nomeApplicazione>LibrettoVolo</nomeApplicazione>
+  <ipClient>localhost</ipClient>
+  <istante>2022-02-10T17:27:16.995Z</istante>
+  <evento>Aggiungi</evento>
+</EventoNavigazioneLibretto>
+
+<EventoNavigazioneLibretto>
+  <nomeApplicazione>LibrettoVolo</nomeApplicazione>
+  <ipClient>localhost</ipClient>
+  <istante>2022-02-10T17:32:01.298Z</istante>
+  <evento>Elimina</evento>
+</EventoNavigazioneLibretto>
+
+<EventoNavigazioneLibretto>
+  <nomeApplicazione>LibrettoVolo</nomeApplicazione>
+  <ipClient>localhost</ipClient>
+  <istante>2022-02-10T17:36:00.842Z</istante>
+  <evento>Importa</evento>
+</EventoNavigazioneLibretto>
+
+<EventoNavigazioneLibretto>
+  <nomeApplicazione>LibrettoVolo</nomeApplicazione>
+  <ipClient>localhost</ipClient>
+  <istante>2022-02-10T17:36:51.467Z</istante>
+  <evento>Importa</evento>
+</EventoNavigazioneLibretto>
+
+<EventoNavigazioneLibretto>
+  <nomeApplicazione>LibrettoVolo</nomeApplicazione>
+  <ipClient>localhost</ipClient>
+  <istante>2022-02-10T17:37:43.005Z</istante>
+  <evento>Esporta</evento>
+</EventoNavigazioneLibretto>
+
+<EventoNavigazioneLibretto>
+  <nomeApplicazione>LibrettoVolo</nomeApplicazione>
+  <ipClient>localhost</ipClient>
+  <istante>2022-02-10T17:38:01.208Z</istante>
+  <evento>Importa</evento>
+</EventoNavigazioneLibretto>
+
+<EventoNavigazioneLibretto>
+  <nomeApplicazione>LibrettoVolo</nomeApplicazione>
+  <ipClient>localhost</ipClient>
+  <istante>2022-02-10T17:38:29.724Z</istante>
+  <evento>Esporta</evento>
+</EventoNavigazioneLibretto>
+
+<EventoNavigazioneLibretto>
+  <nomeApplicazione>LibrettoVolo</nomeApplicazione>
+  <ipClient>localhost</ipClient>
+  <istante>2022-02-10T17:38:42.118Z</istante>
+  <evento>Aggiorna</evento>
+</EventoNavigazioneLibretto>
+
+<EventoNavigazioneLibretto>
+  <nomeApplicazione>LibrettoVolo</nomeApplicazione>
+  <ipClient>localhost</ipClient>
+  <istante>2022-02-10T17:39:17.815Z</istante>
+  <evento>Esporta</evento>
+</EventoNavigazioneLibretto>
+
+<EventoNavigazioneLibretto>
+  <nomeApplicazione>LibrettoVolo</nomeApplicazione>
+  <ipClient>localhost</ipClient>
+  <istante>2022-02-10T17:39:42.348Z</istante>
+  <evento>Aggiorna</evento>
+</EventoNavigazioneLibretto>
+
+<EventoNavigazioneLibretto>
+  <nomeApplicazione>LibrettoVolo</nomeApplicazione>
+  <ipClient>localhost</ipClient>
+  <istante>2022-02-10T17:45:04.229Z</istante>
+  <evento>Esporta</evento>
+</EventoNavigazioneLibretto>
+
+<EventoNavigazioneLibretto>
+  <nomeApplicazione>LibrettoVolo</nomeApplicazione>
+  <ipClient>localhost</ipClient>
+  <istante>2022-02-10T17:45:18.203Z</istante>
+  <evento>Aggiorna</evento>
+</EventoNavigazioneLibretto>
+
+<EventoNavigazioneLibretto>
+  <nomeApplicazione>LibrettoVolo</nomeApplicazione>
+  <ipClient>localhost</ipClient>
+  <istante>2022-02-10T17:45:19.973Z</istante>
+  <evento>Esporta</evento>
+</EventoNavigazioneLibretto>
+
+<EventoNavigazioneLibretto>
+  <nomeApplicazione>LibrettoVolo</nomeApplicazione>
+  <ipClient>localhost</ipClient>
+  <istante>2022-02-10T17:45:34.362Z</istante>
+  <evento>Termine</evento>
+</EventoNavigazioneLibretto>
+
+<EventoNavigazioneLibretto>
+  <nomeApplicazione>LibrettoVolo</nomeApplicazione>
+  <ipClient>localhost</ipClient>
+  <istante>2022-02-10T17:46:20.300Z</istante>
+  <evento>Avvio</evento>
+</EventoNavigazioneLibretto>
+
+<EventoNavigazioneLibretto>
+  <nomeApplicazione>LibrettoVolo</nomeApplicazione>
+  <ipClient>localhost</ipClient>
+  <istante>2022-02-10T17:47:12.896Z</istante>
+  <evento>Importa</evento>
+</EventoNavigazioneLibretto>
+
+<EventoNavigazioneLibretto>
+  <nomeApplicazione>LibrettoVolo</nomeApplicazione>
+  <ipClient>localhost</ipClient>
+  <istante>2022-02-10T17:48:45.112Z</istante>
+  <evento>Aggiorna</evento>
+</EventoNavigazioneLibretto>
+
+<EventoNavigazioneLibretto>
+  <nomeApplicazione>LibrettoVolo</nomeApplicazione>
+  <ipClient>localhost</ipClient>
+  <istante>2022-02-10T17:49:19.598Z</istante>
+  <evento>Esporta</evento>
+</EventoNavigazioneLibretto>
+
+<EventoNavigazioneLibretto>
+  <nomeApplicazione>LibrettoVolo</nomeApplicazione>
+  <ipClient>localhost</ipClient>
+  <istante>2022-02-10T17:50:05.021Z</istante>
+  <evento>Aggiorna</evento>
+</EventoNavigazioneLibretto>
+
+<EventoNavigazioneLibretto>
+  <nomeApplicazione>LibrettoVolo</nomeApplicazione>
+  <ipClient>localhost</ipClient>
+  <istante>2022-02-10T18:32:03.536Z</istante>
+  <evento>Avvio</evento>
+</EventoNavigazioneLibretto>
+
+<EventoNavigazioneLibretto>
+  <nomeApplicazione>LibrettoVolo</nomeApplicazione>
+  <ipClient>localhost</ipClient>
+  <istante>2022-02-10T18:32:11.204Z</istante>
+  <evento>Termine</evento>
+</EventoNavigazioneLibretto>
+
+<EventoNavigazioneLibretto>
+  <nomeApplicazione>LibrettoVolo</nomeApplicazione>
+  <ipClient>localhost</ipClient>
+  <istante>2022-02-10T18:36:00.955Z</istante>
+  <evento>Termine</evento>
+</EventoNavigazioneLibretto>
+

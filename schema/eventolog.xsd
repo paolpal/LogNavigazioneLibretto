@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- eventolog.xsd -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="EventoNavigazioneLibretto">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element type="xs:string" name="nomeApplicazione"/>
+        <xs:element type="xs:string" name="ipClient"/>
+        <xs:element type="xs:string" name="istante"/>
+        <xs:element type="xs:string" name="evento"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
